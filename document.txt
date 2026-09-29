@@ -1,0 +1,9 @@
+https://chatgpt.com/c/6aba4d4f-f90c-83e8-9011-53a27bc87d47
+
+
+uv add google-adk litellm langchain-openai chromadb pypdf python-dotenv
+
+uv run python ingest.py
+
+
+uv run adk web
