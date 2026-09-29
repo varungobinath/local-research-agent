@@ -13,3 +13,6 @@ wheels/
 .env
 *.pyc
 chroma_db/
+
+
+document.txt
